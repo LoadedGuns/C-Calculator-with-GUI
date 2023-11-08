@@ -1,0 +1,10 @@
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\bin\Debug\GUI Project.exe.config
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\bin\Debug\GUI Project.exe
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\bin\Debug\GUI Project.pdb
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI Project.csproj.AssemblyReference.cache
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI_Project.Properties.Resources.resources
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI Project.csproj.GenerateResource.cache
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI Project.csproj.CoreCompileInputs.cache
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI Project.exe
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI Project.pdb
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI_Project.Form1.resources

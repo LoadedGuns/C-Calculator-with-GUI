@@ -1,0 +1,10 @@
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\bin\Debug\C# Calculator.exe.config
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\bin\Debug\C# Calculator.exe
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\bin\Debug\C# Calculator.pdb
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI_Project.csproj.AssemblyReference.cache
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI_Project.Form1.resources
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI_Project.Properties.Resources.resources
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI_Project.csproj.GenerateResource.cache
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\GUI_Project.csproj.CoreCompileInputs.cache
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\C# Calculator.exe
+C:\Users\jswee\OneDrive\Desktop\Dev Work\Projects\GUI Project\GUI Project\obj\Debug\C# Calculator.pdb
