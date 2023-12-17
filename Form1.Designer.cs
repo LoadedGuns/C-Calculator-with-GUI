@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -47,14 +46,6 @@
             this.button16 = new System.Windows.Forms.Button();
             this.mathvisual = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(372, 24);
-            this.menuStrip1.TabIndex = 0;
-            this.menuStrip1.Text = "menuStrip1";
             // 
             // button1
             // 
@@ -270,7 +261,7 @@
             this.mathvisual.Location = new System.Drawing.Point(12, 12);
             this.mathvisual.Name = "mathvisual";
             this.mathvisual.ReadOnly = true;
-            this.mathvisual.Size = new System.Drawing.Size(350, 68);
+            this.mathvisual.Size = new System.Drawing.Size(348, 68);
             this.mathvisual.TabIndex = 17;
             this.mathvisual.TextChanged += new System.EventHandler(this.mathvisual_TextChanged);
             // 
@@ -296,8 +287,6 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "C# Calculator by James Sweetsir";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -307,8 +296,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
